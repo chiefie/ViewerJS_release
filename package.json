@@ -1,0 +1,28 @@
+{
+  "name": "viewerjs",
+  "version": "0.5.8",
+  "description": "This repo is a fork of the ViewerJS_release repo, modified so that it can be installed with npm.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiefie/ViewerJS_release.git"
+  },
+  "keywords": [
+    "OpenDocument",
+    "ODF",
+    "PDF",
+    "Text",
+    "Document",
+    "Slides",
+    "Presentation",
+    "ODT",
+    "OTT",
+    "FODT",
+    "ODP",
+    "OTP",
+    "FODP",
+    "Viewer"
+  ],
+  "author": "Kelvin Yong",
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/chiefie/ViewerJS_release#readme"
+}
